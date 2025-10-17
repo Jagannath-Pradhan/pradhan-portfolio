@@ -7,7 +7,7 @@ export default function Projects() {
     {
       title: 'Food Delivery App',
       description: 'A feature-rich food delivery web app offering seamless browsing, ordering, and checkout experiences. Built with modern technologies to ensure fast performance, responsive design, and a user-friendly interface.',
-      image: '/dash_dine.png',
+      image: '/dash-dine.png',
       technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
       github: '#',
       live: '#',
@@ -16,7 +16,7 @@ export default function Projects() {
     {
       title: 'Subhadra Yojna Clone App',
       description: 'A clone of the Odisha Government’s women empowerment initiative, developed with a Mobile-First Approach for accessibility and usability. Focused on creating an engaging and responsive interface inspired by the original platform.',
-      image: '/subhadra_yojna_clone.png',
+      image: '/subhadra-yojna-clone.png',
       technologies: ['React.js', 'Bootstrap'],
       github: '#',
       live: '#',
@@ -25,7 +25,7 @@ export default function Projects() {
     {
       title: 'Naval S/W Clone App',
       description: 'A fully responsive single-page clone project built using HTML, CSS, Bootstrap, and AOS for smooth scrolling animations. Carefully designed to deliver a modern, sleek UI and highly optimized user experience across all devices.',
-      image: '/naval_sw_clone.png',
+      image: '/naval-sw-clone.png',
       technologies: ['HTML', 'CSS', 'AOS', 'Bootstrap'],
       github: '#',
       live: '#',

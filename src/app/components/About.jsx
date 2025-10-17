@@ -8,10 +8,10 @@ export default function About() {
   const [isExpanded, setIsExpanded] = useState(false);
 
   const shortDescription =
-    'I\'m a passionate Full Stack Developer with a keen eye for design and a love for creating seamless digital experiences. With expertise in modern web technologies, I transform ideas into elegant, functional applications that users love.'
+    'I\'m a passionate Full Stack Web Developer with a keen eye for design and a love for creating seamless digital experiences. With expertise in modern web technologies, I transform ideas into elegant, functional applications that users love.'
 
   const fullDescription =
-    'I\'m a passionate Full Stack Developer with a keen eye for design and a love for creating seamless digital experiences. With expertise in modern web technologies, I transform ideas into elegant, functional applications that users love.\n\nMy journey in tech began with curiosity and evolved into a deep commitment to crafting high-quality software. I specialize in building responsive, user-centric applications using cutting-edge frameworks and best practices. Whether it\'s architecting scalable backend systems or designing intuitive user interfaces, I approach every project with creativity and precision.\n\nWhen I\'m not coding, you\'ll find me exploring new technologies, contributing to open - source projects, or sharing knowledge with the developer community. I believe in continuous learning and staying ahead of industry trends to deliver innovative solutions that make a real impact.'
+    'I\'m a passionate Full Stack Web Developer with a keen eye for design and a love for creating seamless digital experiences. With expertise in modern web technologies, I transform ideas into elegant, functional applications that users love.\n\nMy journey in tech began with curiosity and evolved into a deep commitment to crafting high-quality software. I specialize in building responsive, user-centric applications using cutting-edge frameworks and best practices. Whether it\'s architecting scalable backend systems or designing intuitive user interfaces, I approach every project with creativity and precision.\n\nWhen I\'m not coding, you\'ll find me exploring new technologies, contributing to open - source projects, or sharing knowledge with the developer community. I believe in continuous learning and staying ahead of industry trends to deliver innovative solutions that make a real impact.'
 
   return (
     <section id="about" className="min-h-screen flex items-center bg-slate-900 py-20">
@@ -48,7 +48,7 @@ export default function About() {
             </div>
 
             {/* Floating Stats */}
-            <div className="absolute -bottom-6 -right-6 bg-gradient-to-br from-cyan-500 to-blue-600 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
+            <div className="absolute -bottom-10 -right-6 bg-gradient-to-br from-cyan-500 to-blue-600 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
               <div className="text-center">
                 <div className="text-3xl font-bold text-white">1+</div>
                 <div className="text-sm text-cyan-100">Years Experience</div>

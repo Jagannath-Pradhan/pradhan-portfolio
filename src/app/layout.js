@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://mydomain.com'),
+  metadataBase: new URL('https://pradhan-portfolio-rust.vercel.app/'),
   title: 'Portfolio - J. Pradhan | Full Stack Web Developer',
   description:
     'I\'m a passionate MERN Stack and Next.js developer who loves building responsive, modern web applications with clean UI and strong functionality. Check out my projects, skills, and experience here.',
@@ -25,13 +25,22 @@ export const metadata = {
     'Portfolio',
     'MERN Developer',
     'Next.js Developer',
-    'Full Stack Developer',
+    'Full Stack Web Developer',
     'React.js',
     'Node.js',
     'JavaScript',
     'Tailwind CSS',
     'Web Developer',
     'Frontend Developer',
+    'Backend Developer',
+    'Web Applications',
+    'Responsive Design',
+    'UI/UX',
+    'Software Engineer',
+    'Programming',
+    'Tech Enthusiast',
+    'Open Source',
+    'Developer Portfolio',
   ],
   authors: [{ name: 'Jagannath Pradhan' }],
   creator: 'Jagannath Pradhan',
@@ -39,7 +48,7 @@ export const metadata = {
     title: 'Jagannath Pradhan | MERN & Next.js Developer',
     description:
       'Explore my portfolio showcasing projects, skills, and experience in MERN Stack and Next.js development.',
-    url: 'https://mydomain.com',
+    url: 'https://pradhan-portfolio-rust.vercel.app/',
     siteName: 'Pradhan Portfolio',
     images: [
       {

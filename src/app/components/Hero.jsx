@@ -79,7 +79,7 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 animate-fade-in">
               <a
-                href="https://wa.me/8338901176?text=Hi%20Pradhan!%20I'm%20interested%20in%20your%20work."
+                href="https://wa.me/+918338901176?text=Hi%20Pradhan!%20I'm%20interested%20in%20your%20work."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative px-8 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-semibold rounded-full overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/50 cursor-pointer flex items-center justify-center gap-2"

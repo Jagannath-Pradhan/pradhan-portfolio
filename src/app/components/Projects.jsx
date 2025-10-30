@@ -9,7 +9,7 @@ export default function Projects() {
       description: 'A feature-rich food delivery web app offering seamless browsing, ordering, and checkout experiences. Built with modern technologies to ensure fast performance, responsive design, and a user-friendly interface.',
       image: '/dash-dine.png',
       technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
-      github: '#',
+      github: 'https://github.com/Jagannath-Pradhan/dash-dine',
       live: '#',
       color: 'from-cyan-400 to-blue-500'
     },
@@ -18,7 +18,7 @@ export default function Projects() {
       description: 'A clone of the Odisha Government’s women empowerment initiative, developed with a Mobile-First Approach for accessibility and usability. Focused on creating an engaging and responsive interface inspired by the original platform.',
       image: '/subhadra-yojna-clone.png',
       technologies: ['React.js', 'Bootstrap'],
-      github: '#',
+      github: 'https://github.com/Jagannath-Pradhan/subhadra-yojna-clone',
       live: '#',
       color: 'from-blue-500 to-purple-500'
     },
@@ -27,7 +27,7 @@ export default function Projects() {
       description: 'A fully responsive single-page clone project built using HTML, CSS, Bootstrap, and AOS for smooth scrolling animations. Carefully designed to deliver a modern, sleek UI and highly optimized user experience across all devices.',
       image: '/naval-sw-clone.png',
       technologies: ['HTML', 'CSS', 'AOS', 'Bootstrap'],
-      github: '#',
+      github: 'https://github.com/Jagannath-Pradhan/naval-software-clone',
       live: '#',
       color: 'from-purple-500 to-pink-500'
     }
@@ -60,7 +60,7 @@ export default function Projects() {
 
                 {/* Hover Overlay with Links */}
                 <div className="absolute inset-0 bg-slate-900/90 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4 z-20">
-                  <a href={project.github} className="p-3 bg-slate-800 rounded-full hover:bg-gradient-to-r hover:from-cyan-400 hover:to-blue-500 transition-all duration-300 hover:scale-110">
+                  <a href={project.github} className="p-3 bg-slate-800 rounded-full hover:bg-gradient-to-r hover:from-cyan-400 hover:to-blue-500 transition-all duration-300 hover:scale-110" target="_blank">
                     <FiGithub size={24} className="text-white" />
                   </a>
                   {/* <a href={project.live} className="p-3 bg-slate-800 rounded-full hover:bg-gradient-to-r hover:from-cyan-400 hover:to-blue-500 transition-all duration-300 hover:scale-110">

@@ -7,7 +7,7 @@ export default function Experience() {
     {
       role: 'Full Stack Web Developer Intern',
       company: 'Sash Info Services Pvt Ltd, Bangalore, India',
-      period: 'May 2022 - Present',
+      period: 'May 2025 - Oct 2025',
       description: 'Independently developed a Timesheet Manager web application using Next.js and Tailwind CSS. Handled the entire project lifecycle from design to deployment, ensuring responsive UI, efficient data handling, and smooth user experience.',
       technologies: ['Next.js', 'React.js', 'Node.js', 'Tailwind CSS', 'MongoDB'],
       color: 'from-cyan-400 to-blue-500'
@@ -15,7 +15,7 @@ export default function Experience() {
     {
       role: 'Full Stack Web Developer Intern',
       company: 'Naval Software Solutions, Bhubaneswar, Odisha, India',
-      period: 'Feb 2020 - May 2022',
+      period: 'Feb 2025 - May 2025',
       description: 'Worked as a Backend Engineer on a major Hospital Management System project, building RESTful APIs using Node.js and Express.js. Also contributed multiple responsive web projects, collaborating on live client applications to enhance functionality and user experience.',
       technologies: ['React.js', 'Node.js', 'Express.js', 'Bootstrap', 'MongoDB'],
       color: 'from-blue-500 to-purple-500'

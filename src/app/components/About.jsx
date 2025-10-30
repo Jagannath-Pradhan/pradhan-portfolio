@@ -48,14 +48,14 @@ export default function About() {
             </div>
 
             {/* Floating Stats */}
-            <div className="absolute -bottom-10 -right-6 bg-gradient-to-br from-cyan-500 to-blue-600 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
+            <div className="absolute -bottom-10 -right-4 bg-gradient-to-br from-cyan-500 to-blue-600 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
               <div className="text-center">
                 <div className="text-3xl font-bold text-white">1+</div>
                 <div className="text-sm text-cyan-100">Years Experience</div>
               </div>
             </div>
 
-            <div className="absolute -top-6 -left-6 bg-gradient-to-br from-blue-600 to-cyan-500 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
+            <div className="absolute -top-6 -left-4 bg-gradient-to-br from-blue-600 to-cyan-500 p-6 rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300">
               <div className="text-center">
                 <div className="text-3xl font-bold text-white">10+</div>
                 <div className="text-sm text-cyan-100">Projects Done</div>
